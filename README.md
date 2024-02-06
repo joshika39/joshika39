@@ -4,7 +4,7 @@
 
 I am a highly motivated individual with a strong background in programming, cultivated during my time at a specialized programming high school and now studying at the elite university of ELTE.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=joshika39&locale=ja&background=011934&stroke=046AEB&border=10CFEB&currStreakLabel=27CEEB&ring=09C1EB&currStreakNum=12E7EB&sideLabels=1289EB&sideNums=20DAEB&dates=7093EB&excludeDaysLabel=EB5454)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshika39&locale=ja&background=011934&stroke=046AEB&border=10CFEB&currStreakLabel=27CEEB&ring=09C1EB&currStreakNum=12E7EB&sideLabels=1289EB&sideNums=20DAEB&dates=7093EB&excludeDaysLabel=EB5454)
 
 ## Favored Operating Systems
 [<img src='https://archlinux.org/static/logos/archlinux-logo-light-scalable.1ae4cc2e2469.svg' alt='arch' height='30'>](https://archlinux.org/)   [<img src='https://news.microsoft.com/wp-content/uploads/prod/sites/612/2021/06/Windows-11-Logo-1000x404.png' height='30' alt='win-11'>](https://www.microsoft.com/hu-hu/windows/windows-11?r=1) [<img src='https://www.debian.org/logos/openlogo-nd.svg' alt='debian' height='30'>](https://www.debian.org/)
