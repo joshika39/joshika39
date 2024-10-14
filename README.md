@@ -4,13 +4,8 @@
 
 I am a highly motivated individual with a strong background in programming, cultivated during my time at a specialized programming high school and now studying at the elite university of ELTE.
 
-<p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=joshika39&show_icons=true&theme=dark&count_private=true' alt='My github stats'>
-</p>
-
-<p align="center">
-  <img src='https://github-readme-streak-stats.herokuapp.com?user=joshika39&locale=ja&background=011934&stroke=046AEB&border=10CFEB&currStreakLabel=27CEEB&ring=09C1EB&currStreakNum=12E7EB&sideLabels=1289EB&sideNums=20DAEB&dates=7093EB&excludeDaysLabel=EB5454' alt="joshika39's github streak">
-</p>
+![joshika39's Stats](https://github-readme-stats.vercel.app/api?username=joshika39&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![joshika39's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshika39&theme=tokyonight&hide_border=true)
 
 ## Favored Operating Systems
 [<img src='https://archlinux.org/static/logos/archlinux-logo-light-scalable.1ae4cc2e2469.svg' alt='arch' height='30'>](https://archlinux.org/)   [<img src='https://news.microsoft.com/wp-content/uploads/prod/sites/612/2021/06/Windows-11-Logo-1000x404.png' height='30' alt='win-11'>](https://www.microsoft.com/hu-hu/windows/windows-11?r=1) [<img src='https://www.debian.org/logos/openlogo-nd.svg' alt='debian' height='30'>](https://www.debian.org/)
