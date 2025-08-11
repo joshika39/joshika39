@@ -1,8 +1,7 @@
 
 ### Hi there 👋
 
-I'm Joshua, 
-
+I'm Joshua, a Software Engineer.
 
 
 ![joshika39 banner](joshika39-profile-banner.png)
@@ -37,8 +36,8 @@ I'm Joshua,
 <img src='https://assets.kou-gen.net/github/joshika39/ror-logo.svg' alt='RoR' height='30'>
 <img src='https://assets.kou-gen.net/github/joshika39/selenium-logo.svg' alt='Selenium' height='30'>
 <img src='https://assets.kou-gen.net/github/joshika39/junit5-logo.png' alt='JUnit' height='30'>
-<img src='https://assets.kou-gen.net/github/joshika39/xunit-logo.png' alt='xUnit' height='30'>
-<img src='https://assets.kou-gen.net/github/joshika39/k8s-logo.svg' alt='Kubernetes' height='30'>
+<img src='https://assets.kou-gen.net/github/joshika39/unit.png' alt='xUnit' height='30'>
+<img src='https://assets.kou-gen.net/github/joshika39/k8s.svg' alt='Kubernetes' height='30'>
 <img src='https://assets.kou-gen.net/github/joshika39/docker-logo.svg' alt='Docker' height='30'>
 <img src='https://assets.kou-gen.net/github/joshika39/helm-logo.svg' alt='Helm' height='30'>
 <img src='https://assets.kou-gen.net/github/joshika39/traefik-logo.png' alt='Traefik' height='30'>
