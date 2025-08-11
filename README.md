@@ -8,6 +8,8 @@ I'm Joshua, a Software Engineer.
 
 ---
 
+
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
 <img src='https://assets.kou-gen.net/github/joshika39/arch-logo.svg' alt='arch' height='30'> 
 <img src='https://assets.kou-gen.net/github/joshika39/win11-logo.png' height='30' alt='win-11'>
 <img src='https://assets.kou-gen.net/github/joshika39/debian-logo.svg' alt='debian' height='30'>
@@ -46,3 +48,4 @@ I'm Joshua, a Software Engineer.
 <img src='https://assets.kou-gen.net/github/joshika39/virtualbox.png' alt='Virtualbox' height='30'>
 <img src='https://assets.kou-gen.net/github/joshika39/linkedin-logo.png' alt='Linkedin' height='30'>
 <img src='https://assets.kou-gen.net/github/joshika39/github-logo.png' alt='Github' height='30'>
+</div>
