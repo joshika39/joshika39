@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm Joshua, a Software Engineer.
+I'm Joshua, a Software Engineer. My expertise lies in .NET development, cloud computing and DevOps practices. 
+I have been working as a frontend developer for a few years now.
+
+Take a look at my portfolio if you want to know more about my work: [https://kou-gen.net](https://kou-gen.net)
 
 ![joshika39 banner](joshika39-profile-banner.png)
 
