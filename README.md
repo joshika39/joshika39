@@ -7,7 +7,7 @@ I'm Joshua, a Software Engineer.
 ---
 
 
-<div style="display:flex; flex-wrap:wrap; justify-content:flex-start; align-items:center; align-content:flex-start; gap:8px; font-size:0;">
+<div style="display:flex; flex-wrap:wrap; justify-content:flex-start; align-items:center; align-content:flex-start; gap:10px; font-size:0;">
 <img src='https://assets.kou-gen.net/github/joshika39/arch-logo.svg' alt='arch' style="height: 30px; object-fit: contain;"> 
 <img src='https://assets.kou-gen.net/github/joshika39/win11-logo.png' alt='win-11' style="height: 30px; object-fit: contain;">
 <img src='https://assets.kou-gen.net/github/joshika39/debian-logo.svg' alt='debian' style="height: 30px; object-fit: contain;">
