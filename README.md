@@ -3,12 +3,11 @@
 I'm Joshua, a Software Engineer. My expertise lies in .NET development, cloud computing and DevOps practices. 
 I have been working as a frontend developer for a few years now.
 
-Take a look at my portfolio if you want to know more about my work: [https://kou-gen.net](https://kou-gen.net)
-
-![joshika39 banner](joshika39-profile-banner.png)
+Take a look at my portfolio if you want to know more about my work: [https://kou-gen.net](https://kou-gen.net).
 
 ---
 
+![joshika39 banner](joshika39-profile-banner.png)
 
 <div style="display:flex; flex-wrap:wrap; justify-content:flex-start; align-items:center; align-content:flex-start; gap:10px; font-size:0;">
 <img src='https://assets.kou-gen.net/github/joshika39/arch-logo.svg' alt='arch' style="height: 30px; object-fit: contain;"> 
