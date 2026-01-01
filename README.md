@@ -1,8 +1,6 @@
-i do software development.
-
-i play and contribute to [osu](https://github.com/ppy/osu).
-
-i like c#. (and react (only in TS), nestjs, nextjs, python, asp.net, avalonia, swift and many-many more)
+i do software development.<br>
+i play and contribute to [osu](https://github.com/ppy/osu).<br>
+i like c#. (and react (only in TS), nestjs, nextjs, python, asp.net, avalonia, swift and many-many more)<br>
 
 <div style="display:flex; flex-wrap:wrap; justify-content:flex-start; align-items:center; align-content:flex-start; gap:10px; font-size:0;">
 <img src='https://assets.kou-gen.net/github/joshika39/arch-logo.svg' alt='Arch Linux' style="height: 30px; object-fit: contain;"> 
