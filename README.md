@@ -1,5 +1,7 @@
 i do software development.
+
 i play and contribute to [osu](https://github.com/ppy/osu).
+
 i like c#. (and react (only in TS), nestjs, nextjs, python, asp.net, avalonia, swift and many-many more)
 
 <div style="display:flex; flex-wrap:wrap; justify-content:flex-start; align-items:center; align-content:flex-start; gap:10px; font-size:0;">
