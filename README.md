@@ -6,6 +6,7 @@ i like c#. (and react (only in TS), nestjs, nextjs, python, asp.net, avalonia, s
 
 ## how I work:
 
+- **hardware:** MacBook Pro M4 Pro
 - **os:** macOS
 - **ide:** jetbrains/(n)vim
 - **browser**: safari with [vifari](https://github.com/dzirtusss/vifari) vim navigation.
@@ -21,3 +22,8 @@ i like c#. (and react (only in TS), nestjs, nextjs, python, asp.net, avalonia, s
 when AI chatbots and vibe coding started becoming more popular, I also jumped on the hype train, but I realized that the
 more I used them, the more I started to depend on them. So I took a different stance: I chose to turn off AI code
 completions and stopped using AI chatbots.
+
+### don't just blindly use ai
+
+- https://x.com/theonejvo/status/2015401219746128322
+- https://x.com/theonejvo/status/2015892980851474595
