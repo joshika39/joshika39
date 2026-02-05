@@ -8,7 +8,7 @@ i like c#. (and react (only in TS), nestjs, nextjs, python, asp.net, avalonia, s
 
 - **hardware:** MacBook Pro M4 Pro
 - **os:** macOS
-- **ide:** jetbrains/(n)vim
+- **ide:** Rider/WebStorm/PyCharm
 - **browser**: safari with [vifari](https://github.com/dzirtusss/vifari) vim navigation.
 - **window manager:** [yabai](https://github.com/asmvik/yabai) + [skhd](https://github.com/asmvik/skhd)
 - **terminal:** iterm2/kitty
